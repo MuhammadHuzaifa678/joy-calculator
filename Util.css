@@ -1,0 +1,25 @@
+h1{
+  font-size:30px;
+  color: aliceblue;
+}
+.container{
+  text-align: center;
+}
+.bg{
+  background-color: rgba(0,0,0,0.6);
+  width: 500px;
+}
+.mx-auto{
+  margin: auto;
+}
+.flex{
+ display: flex; 
+} 
+.flex-col{
+  flex-direction: column;
+  
+}
+.item-center{
+  align-items: center;
+}
+
